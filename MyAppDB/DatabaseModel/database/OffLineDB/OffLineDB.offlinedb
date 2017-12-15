@@ -1,0 +1,26 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProviderSettings xmlns="http://xmlns.oracle.com/ide/hash">
+   <hash n="dataTypeSettings">
+      <value n="sourceKey" v="oracle.javatools.db.ora.Oracle10gR2XE"/>
+   </hash>
+   <value n="id" v="b1301e9b-20d0-489a-8aa1-54de44555641"/>
+   <value n="name" v="OffLineDB"/>
+   <hash n="oracle.jdeveloper.offlinedb.model.ProviderDefaultTemplateSettings">
+      <hash n="default-template-ids">
+         <value n="FUNCTION" v="N:FUNCTION:TEMPLATE_FUNCTION1:SCHEMA:TEMPLATES"/>
+         <value n="MATERIALIZED VIEW" v="I:MATERIALIZED VIEW:2425d6ea-ee1b-4625-b171-40360c0c79f9"/>
+         <value n="MATERIALIZED VIEW LOG" v="I:MATERIALIZED VIEW LOG:25034d1f-d649-4204-9769-68b9250f9a29"/>
+         <value n="PACKAGE" v="N:PACKAGE:TEMPLATE_PACKAGE1:SCHEMA:TEMPLATES"/>
+         <value n="PACKAGE BODY" v="N:PACKAGE BODY:TEMPLATE_PACKAGE1:SCHEMA:TEMPLATES"/>
+         <value n="PROCEDURE" v="N:PROCEDURE:TEMPLATE_PROCEDURE1:SCHEMA:TEMPLATES"/>
+         <value n="SCHEMA" v="TEMPLATES"/>
+         <value n="SEQUENCE" v="I:SEQUENCE:83bb5193-a3f4-45c0-9229-f01dd01b4ea4"/>
+         <value n="SYNONYM" v="I:SYNONYM:1f17cfd3-c81a-4b3e-915f-92c452bed44c"/>
+         <value n="TABLE" v="I:TABLE:07351e97-1ae0-4e3b-9f9b-e959e562eac7"/>
+         <value n="TRIGGER" v="N:TRIGGER:TEMPLATE_TRIGGER1:SCHEMA:TEMPLATES"/>
+         <value n="TYPE" v="N:TYPE:TEMPLATE_TYPE1:SCHEMA:TEMPLATES"/>
+         <value n="TYPE BODY" v="N:TYPE BODY:TEMPLATE_TYPE1:SCHEMA:TEMPLATES"/>
+         <value n="VIEW" v="I:VIEW:56be2f74-cf1d-4671-b8ce-33cd21eb9b1e"/>
+      </hash>
+   </hash>
+</ProviderSettings>

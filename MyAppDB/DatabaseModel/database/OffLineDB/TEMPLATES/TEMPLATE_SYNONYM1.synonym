@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<synonym xmlns="http://xmlns.oracle.com/jdeveloper/1112/offlinedb">
+  <ID class="oracle.javatools.db.IdentifierBasedID">
+    <identifier class="java.lang.String">1f17cfd3-c81a-4b3e-915f-92c452bed44c</identifier>
+  </ID>
+  <name>TEMPLATE_SYNONYM1</name>
+  <public>false</public>
+  <reference class="oracle.javatools.db.IdentifierBasedID">
+    <name>TEMPLATE_TABLE1</name>
+    <identifier class="java.lang.String">07351e97-1ae0-4e3b-9f9b-e959e562eac7</identifier>
+    <schemaName>TEMPLATES</schemaName>
+    <type>TABLE</type>
+  </reference>
+  <schema>
+    <name>TEMPLATES</name>
+  </schema>
+</synonym>

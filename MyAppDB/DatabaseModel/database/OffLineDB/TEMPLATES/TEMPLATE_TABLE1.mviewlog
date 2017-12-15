@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<materializedViewLog xmlns="http://xmlns.oracle.com/jdeveloper/1112/offlinedb">
+  <ID class="oracle.javatools.db.IdentifierBasedID">
+    <identifier class="java.lang.String">25034d1f-d649-4204-9769-68b9250f9a29</identifier>
+  </ID>
+  <name>TEMPLATE_TABLE1</name>
+  <masterTableID class="oracle.javatools.db.IdentifierBasedID">
+    <name>TEMPLATE_TABLE1</name>
+    <identifier class="java.lang.String">07351e97-1ae0-4e3b-9f9b-e959e562eac7</identifier>
+    <schemaName>TEMPLATES</schemaName>
+    <type>TABLE</type>
+  </masterTableID>
+  <parallel>1</parallel>
+  <schema>
+    <name>TEMPLATES</name>
+  </schema>
+</materializedViewLog>

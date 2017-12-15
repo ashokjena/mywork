@@ -25,5 +25,12 @@
 hs_err_pid*
 >>>>>>> 392045d783348a10a7c5f0fb1c390a17d19dbcc3
 
-/mywork/MyApp/.data
-/mywork/MyAppDB/.data
+#ADF MyApp Ignore Files
+MyApp/.data
+MyApp/ViewController/public_html/WEB-INF/temp/
+MyApp/ViewController/classes
+*.jdb
+*.lck
+
+#ADF MyAppDB Ignore Files
+MyAppDB/.data
